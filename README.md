@@ -1,0 +1,1 @@
+This is Mag's first git project!
